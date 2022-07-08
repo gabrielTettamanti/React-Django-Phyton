@@ -1,8 +1,8 @@
 # React-Django-Phyton
 This is my first attempt to make a website using React in the frontend and Phyton with the framework Django in the backend.
 
-#Guides
+## Guides
 
-*Phyton -> https://www.freelancer.com/articles/web-development/how-to-build-a-website-with-python
+* Phyton -> https://www.freelancer.com/articles/web-development/how-to-build-a-website-with-python
 
-*React -> https://www.youtube.com/watch?v=6Jfk8ic3KVk&t=17468s
+* React -> https://www.youtube.com/watch?v=6Jfk8ic3KVk&t=17468s
